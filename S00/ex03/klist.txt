@@ -1,0 +1,5 @@
+Credentials cache: API:081F3C11-BF61-4F30-AF78-4F9B98B8E9AF
+        Principal: ychibani@42.FR
+
+  Issued                Expires               Principal
+Jun 29 15:21:14 2021  Jul  6 15:21:14 2021  krbtgt/42.FR@42.FR
